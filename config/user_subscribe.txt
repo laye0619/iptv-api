@@ -22,12 +22,4 @@ https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 # https://live.iptv365.org/live.m3u
 # https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 
-# Below is from https://epg.pw/test_channel_page.html
-
-https://freetv.fun/test_channels_taiwan_new.m3u
-https://freetv.fun/test_channels_hong_kong_new.m3u
-https://freetv.fun/test_channels_united_states_new.m3u
-https://freetv.fun/test_channels_singapore_new.m3u
-https://freetv.fun/test_channels_united_kingdom_new.m3u
-https://freetv.fun/test_channels_ireland_new.m3u
 
