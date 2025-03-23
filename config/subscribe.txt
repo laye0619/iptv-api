@@ -21,4 +21,4 @@
 
 
 https://live.iptv365.org/live.m3u
-https://bit.ly/iptv-aptv
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
