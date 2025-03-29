@@ -19,6 +19,5 @@ https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 
 
 https://live.iptv365.org/live.m3u
-https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 
 
