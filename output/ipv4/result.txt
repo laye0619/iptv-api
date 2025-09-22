@@ -1,13 +1,12 @@
 🕘️更新时间,#genre#
-2025-09-22 11:26:25,http://ygbh.site/php/bfgd.php?id=063
+2025-09-22 23:20:53,http://ygbh.site/php/bfgd.php?id=063
 
 📺央视频道,#genre#
 CCTV-4,http://ygbh.site/php/bfgd.php?id=063
-CCTV-5+,http://ygbh.site/php/bfgd.php?id=246
 CCTV-6,http://ygbh.site/php/bfgd.php?id=065
 CCTV-7,http://ygbh.site/php/bfgd.php?id=127
-CCTV-9,http://ygbh.site/php/bfgd.php?id=128
 CCTV-9,http://p.ytelc.com/169l/0/cctv.php?id=cctv9
+CCTV-9,http://ygbh.site/php/bfgd.php?id=128
 CCTV-10,http://ygbh.site/php/bfgd.php?id=129
 CCTV-11,http://ygbh.site/php/bfgd.php?id=130
 CCTV-12,http://ygbh.site/php/bfgd.php?id=131
@@ -22,12 +21,11 @@ CETV-1,http://223.167.245.215:8001/rtp/239.45.1.125:5140
 CETV-2,http://223.167.245.215:8001/rtp/239.45.1.52:5140
 CETV-4,http://221.10.226.195:5000/rtp/239.0.0.98:5140
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
-CETV-4,http://223.167.245.215:8001/rtp/239.45.1.50:5140
 CETV-4,http://112.109.206.106:9999/rtp/239.255.40.31:8208
+CETV-4,http://223.167.245.215:8001/rtp/239.45.1.50:5140
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-东方卫视,http://iptv.zkbhj.com/tv/url/go?id=5807dd9aa7a50a68f5e3768116930afcc30c88250b45e02c3ee3918e37e0dd8ac82774ab2cba0c3ab0060596ffb0adc68b159ebdfc0a79d0e46bdfab58d3819e
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://223.167.245.215:8001/rtp/239.45.0.3:5140
 云南卫视,http://223.167.245.215:8001/rtp/239.45.0.4:5140
