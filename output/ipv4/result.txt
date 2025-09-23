@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-22 23:20:53,http://ygbh.site/php/bfgd.php?id=063
+2025-09-23 11:23:05,http://ygbh.site/php/bfgd.php?id=063
 
 📺央视频道,#genre#
 CCTV-4,http://ygbh.site/php/bfgd.php?id=063
@@ -7,6 +7,7 @@ CCTV-6,http://ygbh.site/php/bfgd.php?id=065
 CCTV-7,http://ygbh.site/php/bfgd.php?id=127
 CCTV-9,http://p.ytelc.com/169l/0/cctv.php?id=cctv9
 CCTV-9,http://ygbh.site/php/bfgd.php?id=128
+CCTV-10,http://110.177.144.22:9003/hls/11/index.m3u8
 CCTV-10,http://ygbh.site/php/bfgd.php?id=129
 CCTV-11,http://ygbh.site/php/bfgd.php?id=130
 CCTV-12,http://ygbh.site/php/bfgd.php?id=131
@@ -28,6 +29,7 @@ CETV-4,http://223.167.245.215:8001/rtp/239.45.1.50:5140
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://223.167.245.215:8001/rtp/239.45.0.3:5140
+山东卫视,http://58.58.111.222:808/hls/57/index.m3u8?key=txiptv
 云南卫视,http://223.167.245.215:8001/rtp/239.45.0.4:5140
 
 ☘️北京频道,#genre#
