@@ -1,14 +1,11 @@
 🕘️更新时间,#genre#
-2025-10-18 11:22:15,http://106.53.99.30/tv/cctv13.php
+2025-10-18 23:21:12,http://106.53.99.30/tv/cctv13.php
 
 📺央视频道,#genre#
 CCTV-13,http://106.53.99.30/tv/cctv13.php
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
-CETV-1,http://111.43.126.240:7777/hls/34/index.m3u8
-CETV-2,http://111.43.126.240:7777/hls/35/index.m3u8
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
-CETV-4,http://111.43.126.240:7777/hls/36/index.m3u8
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
