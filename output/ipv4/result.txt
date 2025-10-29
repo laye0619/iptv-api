@@ -1,9 +1,7 @@
 🕘️更新时间,#genre#
-2025-10-28 22:22:11,http://183.215.134.239:19901/tsfile/live/0002_1.m3u8
+2025-10-29 10:24:56,http://zqh2333.top:2222/rtp/239.93.55.54:5140
 
 📺央视频道,#genre#
-CCTV-2,http://183.215.134.239:19901/tsfile/live/0002_1.m3u8
-CCTV-3,http://183.215.134.239:19901/tsfile/live/0003_1.m3u8
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
 
 📡卫视频道,#genre#
@@ -19,6 +17,7 @@ CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
+翡翠台,http://51.89.166.17:3002/index.php?id=jade_twn
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
