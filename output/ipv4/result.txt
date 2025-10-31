@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-31 10:23:57,http://zqh2333.top:2222/rtp/239.93.55.54:5140
+2025-10-31 22:22:20,http://zqh2333.top:2222/rtp/239.93.55.54:5140
 
 📺央视频道,#genre#
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
@@ -10,9 +10,7 @@ CETV-4,http://116.179.149.157:6000/rtp/226.0.2.70:8472
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-湖北卫视,http://113.106.171.234:8899/rtp/239.20.0.90:3040
 黑龙江卫视,http://113.106.171.234:8899/rtp/239.20.0.91:3036
-陕西卫视,http://111.127.157.178:51234/rtp/239.29.1.86:5001
 
 ☘️北京频道,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
