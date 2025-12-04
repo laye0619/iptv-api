@@ -1,20 +1,17 @@
 🕘️更新时间,#genre#
-2025-12-03 22:23:11,http://183.220.107.138:4022/rtp/239.11.0.109:5140
+2025-12-04 10:28:27,http://a.402089.xyz:4022/rtp/233.50.200.143:5140
 
 📺央视频道,#genre#
+CCTV-1,http://a.402089.xyz:4022/rtp/233.50.200.143:5140
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
-CCTV-7,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226906/.m3u8
 CCTV-9,http://183.220.107.138:4022/rtp/239.11.0.111:5140
 CCTV-11,http://183.220.107.138:4022/rtp/239.11.0.22:5140
-CCTV-14,http://183.238.86.52:4022/rtp/239.10.0.212:1025
 CETV-1,http://116.179.130.16:6001/rtp/226.0.2.181:9360
 
 📡卫视频道,#genre#
-广东卫视,http://183.238.86.52:4022/rtp/239.10.0.111:1025
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-北京卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226441/.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-广西卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226534/.m3u8
+北京卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226441/.m3u8
 
 ☘️北京频道,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
