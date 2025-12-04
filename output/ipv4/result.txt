@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-04 10:28:27,http://a.402089.xyz:4022/rtp/233.50.200.143:5140
+2025-12-04 22:20:42,http://a.402089.xyz:4022/rtp/233.50.200.143:5140
 
 📺央视频道,#genre#
 CCTV-1,http://a.402089.xyz:4022/rtp/233.50.200.143:5140
@@ -11,7 +11,6 @@ CETV-1,http://116.179.130.16:6001/rtp/226.0.2.181:9360
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226441/.m3u8
 
 ☘️北京频道,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
